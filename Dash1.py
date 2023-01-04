@@ -6,10 +6,10 @@ import leafmap.foliumap as leafmap
 
 st.set_page_config(page_title='Dashboard', layout='wide')
 
-st.title('Highway Dashboard')
+st.title('Yacoub Dashboard')
 
 st.sidebar.title('About')
-st.sidebar.info('Explore the Highway Statistics')
+st.sidebar.info('Explore the Statistics')
 
 data_url = 'https://storage.googleapis.com/spatialthoughts-public-data/python-dataviz/osm/'
 gpkg_file = 'karnataka.gpkg'
