@@ -6,7 +6,7 @@ import leafmap.foliumap as leafmap
 
 st.set_page_config(page_title='Dashboard', layout='wide')
 
-st.title('Yacoub Dashboard')
+st.title('Yacoub simple Dashboard')
 
 st.sidebar.title('About')
 st.sidebar.info('Explore the Statistics')
